@@ -7,7 +7,7 @@ Introductory Hello Examples with Jets.
 * Controller: [controllers/posts_controller.rb](app/controllers/posts_controller.rb)
 * Route: [config/routes.rb](config/routes.rb)
 
-* Blog Post: [Hello World Examples: Jets Introduction Series Part 4](https://blog.boltops.com/2019/02/11/hello-world-examples-jets-introductory-series-part-4)
+Here's the blog post: [Hello World Examples: Jets Introduction Series Part 4](https://blog.boltops.com/2019/02/11/hello-world-examples-jets-introductory-series-part-4)
 
 ## Setup
 
