@@ -31,6 +31,8 @@ Next, we'll deploy the app to AWS Lambda with [jets deploy](http://rubyonjets.co
     vim .env.development.remote # add your env variables
     jets deploy
 
+## Thank You
+
 If you find Jets interesting, please it a GitHub star [tongueroo/jets](https://github.com/tongueroo/jets). It helps others find out about the project.  I'd appreciate it!
 
 ## More Examples
