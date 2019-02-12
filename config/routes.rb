@@ -1,5 +1,5 @@
 Jets.application.routes.draw do
-  get  "posts", to: "posts#index"
+  get  "hello", to: "posts#index"
 
   root "jets/public#show"
 
