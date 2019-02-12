@@ -20,8 +20,8 @@ Here's the blog post: [Hello World Examples: Jets Introduction Series Part 4](ht
 
 Now you should be able to go to these urls to see the app.
 
-* http://localhost:3000
-* http://localhost:3000/hello # demo route
+* http://localhost:8888
+* http://localhost:8888/hello # demo route
 
 ## Deploy
 
