@@ -1,5 +1,7 @@
 # Jets Hello World Examples
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 Introductory Hello Examples with Jets.
 
 * Function: [function/simple.rb](app/functions/simple.rb)
